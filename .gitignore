@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+vendor/
+web-II-QI/
